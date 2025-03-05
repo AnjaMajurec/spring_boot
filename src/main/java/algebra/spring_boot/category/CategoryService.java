@@ -1,11 +1,10 @@
 package algebra.spring_boot.category;
 
-import jakarta.persistence.criteria.CriteriaBuilder;
-import jakarta.validation.Valid;
+
 import lombok.RequiredArgsConstructor;
 import org.apache.logging.log4j.util.InternalException;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.RequestBody;
+
 
 import java.util.List;
 import java.util.Optional;

@@ -1,7 +1,6 @@
 package algebra.spring_boot.category;
 
 import jakarta.validation.constraints.NotBlank;
-import lombok.AllArgsConstructor;
 import lombok.Data;
 
 @Data
